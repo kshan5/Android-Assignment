@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+
+    <!-- Strings related to login -->
+    <string name="log_email">UserName/Email</string>
+    <string name="log_password">Password</string>
+    <string name="log_signin">Sign in</string>
+    <string name="log_mobile">Mobile Number</string>
+    <string name="log_create_acc">Create Account</string>
+    <string name="log_reg_btn">Register</string>
+
+    <string name="gender">Gender :</string>
+    <string name="lang">Languages Known</string>
+    <!-- Strings related to error message -->
+
+    <string name="str_male">Male</string>
+    <string name="log_first_name">First Name</string>
+    <string name="log_last_name">Last Name</string>
+    <string name="str_female">Female</string>
+
+
+
+    <string name="ln_tamil">Tamil</string>
+    <string name="ln_english">English</string>
+    <string name="ln_hindi">Hindi</string>
+
+    <string name="dt_al_name">Album Title :</string>
+    <string name="dt_al_artist">Artist :</string>
+    <string name="dt_al_reldate">Release Date :</string>
+    <string name="dt_al_producer">Producer :</string>
+    <string name="dt_al_awards">Awards :</string>
+    <string name="dt_al_geners">Geners :</string>
+    <string name="dt_al_songs">Songs :</string>
+    <string name="dt_al_rate">Ratings :</string>
+    <string-array name="age_group">
+        <item>Select Age Group</item>
+        <item>Child</item>
+        <item>Teenage</item>
+        <item>Middle Age</item>
+        <item>Old Age</item>
+    </string-array>
+
+
+</resources>
